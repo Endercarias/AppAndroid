@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">miSegundaApp</string>
+    <string name="edit_messa">Nombre</string>
+    <string name="send_button">Enviar</string>
+</resources>
